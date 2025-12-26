@@ -11,6 +11,9 @@
   @include('home.header')
   @include('home.hero')
   @include('home.menu')
+  @include('home.shop')
+  @include('home.whychooseus')
+  @include('home.footer')
 
   
   <script src="{{ asset('home/js/all.js') }}"></script>
