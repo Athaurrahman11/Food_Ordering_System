@@ -10,6 +10,7 @@
 <body class="bg-black">
   @include('home.header')
   @include('home.hero')
+  @include('home.menu')
 
   
   <script src="{{ asset('home/js/all.js') }}"></script>
