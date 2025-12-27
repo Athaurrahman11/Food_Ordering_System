@@ -9,7 +9,6 @@
         <a href="#" class="block mt-6 md:mt-0 hover:text-green-500 transition duration-150 relative after:content-['']  after:h-[1.5px] after:bg-green-500 after:block after:w-auto after:opacity-0 after:transition after:duration-150 after:ease-in-out hover:after:opacity-100" id="home">Home</a>
         <a href="#" class="block mt-6 md:mt-0 hover:text-green-500 transition duration-150 relative after:content-['']  after:h-[1.5px] after:bg-green-500 after:block after:w-auto after:opacity-0 after:transition after:duration-150 after:ease-in-out hover:after:opacity-100" >Shop</a>
         <a href="#" class="block mt-6 md:mt-0 hover:text-green-500 transition duration-150 relative after:content-['']  after:h-[1.5px] after:bg-green-500 after:block after:w-auto after:opacity-0 after:transition after:duration-150 after:ease-in-out hover:after:opacity-100" >About</a>
-        <a href="#" class="block mt-6 md:mt-0 hover:text-green-500 transition duration-150 relative after:content-['']  after:h-[1.5px] after:bg-green-500 after:block after:w-auto after:opacity-0 after:transition after:duration-150 after:ease-in-out hover:after:opacity-100" >Our Team</a>
         <a href="#" class="block mt-6 md:mt-0 hover:text-green-500 transition duration-150 relative after:content-['']  after:h-[1.5px] after:bg-green-500 after:block after:w-auto after:opacity-0 after:transition after:duration-150 after:ease-in-out hover:after:opacity-100" >Contact</a>
       </nav>
 

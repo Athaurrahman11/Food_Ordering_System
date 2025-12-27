@@ -28,6 +28,9 @@
 }
 
 
+.chefs:has(:hover) .chef:not(:hover) {
+  filter: grayscale(1) brightness(0.6);
+}
 
 
 
