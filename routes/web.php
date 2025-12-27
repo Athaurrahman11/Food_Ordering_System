@@ -13,3 +13,6 @@ Route::get('/shopping', function () {
 Route::get('/about', function () {
     return view('home.about');
 });
+Route::get('/contact', function () {
+    return view('home.contact');
+});
