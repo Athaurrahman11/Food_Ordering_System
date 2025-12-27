@@ -1,6 +1,6 @@
 <section class="menu-section p-15">
   <div class="text-white text-center ">
-    <h3 class="text-5xl md:text-5xl font-bold">Explore Our Menu</h3>
+    <h3 class="text-5xl md:text-5xl font-bold after-[''] after:w-72 after:h-2 after:block after:bg-green-500 after:m-auto after:mt-4 ">Explore Our Menu</h3>
     <p class="text-base text-center pt-3 md:text-lg">Discover a delicious selection of dishes made with love and the freshest ingredients. From spicy starters to satisfying mains and sweet endings — there’s something for every craving.</p>
   </div>
 

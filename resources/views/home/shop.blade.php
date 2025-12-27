@@ -1,7 +1,7 @@
 <section class="menu-section p-15">
   <div class="text-white text-center ">
-    <h3 class="text-5xl md:text-5xl font-bold">Featured Dishes</h3>
-    <p class="text-base text-center pt-3 md:text-lg">A refined selection of our finest dishes, crafted to impress.</p>
+    <h3 class="text-5xl md:text-5xl font-bold after-[''] after:w-68 after:h-2 after:block after:bg-green-500 after:m-auto after:mt-4">Featured Dishes</h3>
+    <p class="text-base text-center pt-3 md:text-lg pb-4">A refined selection of our finest dishes, crafted to impress.</p>
   </div>
 
   <div class="dish-items grid grid-cols-1 gap-10 md:grid md:grid-cols-3 md:gap-10 lg:grid lg:grid-cols-4 lg:gap-10">

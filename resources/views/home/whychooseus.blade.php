@@ -1,7 +1,7 @@
 <section class="why menu-section p-15">
   <div class="text-white text-center ">
-    <h3 class="text-5xl md:text-5xl font-bold">Why Choose Us</h3>
-    <p class="text-base text-center pt-3 md:text-lg">We serve delicious, freshly prepared meals using high-quality ingredients.
+    <h3 class="text-5xl md:text-5xl font-bold after-[''] after:w-62 after:h-2 after:block after:bg-green-500 after:m-auto after:mt-4 pb-4">Why Choose Us</h3>
+    <p class="text-base text-center pt-3 md:text-lg pb-10">We serve delicious, freshly prepared meals using high-quality ingredients.
       Our goal is to give you great taste, fast service, and the best value for money.</p>
   </div>
   <div class="why-items grid grid-cols-2 gap-2 md:grid md:grid-cols-4 gap-2">
