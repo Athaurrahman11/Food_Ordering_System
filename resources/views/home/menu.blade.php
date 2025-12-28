@@ -9,7 +9,16 @@
 
     <div class="menu-item border border-amber-950 p-2 ">
       <div class="image ">
-        <img src="/home/images/Home.png" class="w-full" alt="">
+        <img src="/home/images/Dessert_Menu.png" class="w-full" alt="">
+      </div>
+      <div>
+        <h2 class="text-center text-green-500 font-bold text-xl">Indian Delights</h2>
+        <p class="text-justify text-[#d2b475] text-base md:text-lg">Experience the rich heritage of Indian cuisine, prepared with traditional spices, time-honored recipes, and fresh ingredients that bring true, authentic flavors to every dish.</p>
+      </div>
+    </div>
+ <div class="menu-item border border-amber-950 p-2 ">
+      <div class="image ">
+        <img src="/home/images/Dessert_Menu.png" class="w-full" alt="">
       </div>
       <div>
         <h2 class="text-center text-green-500 font-bold text-xl">Indian Delights</h2>
@@ -17,19 +26,9 @@
       </div>
     </div>
 
-    <div class="menu-item border border-amber-950 p-2 ">
-      <div class="image ">
-        <img src="/home/images/Home.png" class="w-full" alt="">
-      </div>
-      <div>
-        <h2 class="text-center text-green-500 font-bold text-xl">Indian Delights</h2>
-        <p class="text-justify text-[#d2b475] text-base md:text-lg">Experience the rich heritage of Indian cuisine, prepared with traditional spices, time-honored recipes, and fresh ingredients that bring true, authentic flavors to every dish.</p>
-      </div>
-    </div>
-  
      <div class="menu-item border border-amber-950 p-2 ">
       <div class="image ">
-        <img src="/home/images/Home.png" class="w-full" alt="">
+        <img src="/home/images/Dessert_Menu.png" class="w-full" alt="">
       </div>
       <div>
         <h2 class="text-center text-green-500 font-bold text-xl">Indian Delights</h2>
@@ -37,15 +36,14 @@
       </div>
     </div>
 
-    <div class="menu-item border border-amber-950 p-2 ">
+     <div class="menu-item border border-amber-950 p-2 ">
       <div class="image ">
-        <img src="/home/images/Home.png" class="w-full" alt="">
+        <img src="/home/images/Dessert_Menu.png" class="w-full" alt="">
       </div>
       <div>
         <h2 class="text-center text-green-500 font-bold text-xl">Indian Delights</h2>
         <p class="text-justify text-[#d2b475] text-base md:text-lg">Experience the rich heritage of Indian cuisine, prepared with traditional spices, time-honored recipes, and fresh ingredients that bring true, authentic flavors to every dish.</p>
       </div>
     </div>
-
 
 </section>
