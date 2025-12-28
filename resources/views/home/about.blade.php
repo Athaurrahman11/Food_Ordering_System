@@ -98,12 +98,11 @@
 
 
   <section class=" p-15 pt-6  ">
-    <div class="text bg-green-500 p-7 rounded-2xl text-white  min-h-60 flex flex-col justify-center items-center">
-      <h1 class="text-xl md:text-2xl font-bold text-center">Ready to Exprerience the FabrioDine Difference? </h1>
-      <p class="mt-4 text-center md:text-lg">Join thousands of happy customers enjoying seamless ordering and delightful deliveries. Your next meal is just a tap away!</p>
+    <div class="text bg-[#1b1917] p-7 rounded-2xl text-white  min-h-60 flex flex-col justify-center items-center">
+      <h1 class="text-xl md:text-2xl font-bold text-center">Ready to Exprerience the <span class="text-green-500">FabrioDine</span> Difference? </h1>
+      <p class="mt-4 text-center md:text-lg text-[#d2b475]">Join thousands of happy customers enjoying seamless ordering and delightful deliveries. Your next meal is just a tap away!</p>
       <div class="buttons mt-4 flex flex-row justify-center items-center gap-5">
-        <a href="" class="bg-white text-green-500 rounded-xl  p-1 pl-1 pr-1 md:p-1 md:pl-2 md:pr-2 font-medium text-medium hover:text-pink-950 transition duration-150 ">Order Food Now</a>
-        <a href="" class="bg-white text-pink-950 rounded-xl  p-1 pl-1 pr-1 md:p-1 md:pl-2 md:pr-2 font-medium text-medium hover:text-green-500 transition duration-150 ">Download Our App</a>
+        <a href="" class="bg-white rounded-xl  p-1 pl-4 pr-4 md:p-1 md:pl-6 md:pr-6 font-medium text-medium text-pink-950 transition duration-150 "><i class="ri-restaurant-2-fill"></i></a>
       </div>
     </div>
 

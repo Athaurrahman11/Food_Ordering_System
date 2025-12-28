@@ -123,6 +123,17 @@
 
 
   </section>
+    <section class="contact-section p-15 pt-30  md:flex md:flex-row  md:justify-between md:gap-8 text-justify  flex  flex-col-reverse">
+    <div class="md:w-1/2 w-full flex flex-col justify-center">
+      <h2 class="text-green-500 text-4xl md:text-5xl font-bold pt-7 after-[''] after:w-44  md:after:w-60 after:h-2 after:block after:bg-green-500 after:m-left after:mt-4">Let’s Connect</h2>
+      <p class="text-white md:text-xl  text-semibold mt-2  ">We’d love to hear from you. Whether it’s a question, feedback, or a new idea, feel free to reach out anytime. We’re here and ready to help.</p>
+
+    </div>
+    <div class="md:w-1/2 w-full">
+      <img src="./home/images/Home.png" class="rounded-2xl" alt="">
+    </div>
+
+  </section>
 
   <section class=" p-15 pt-6  ">
     <div class="text bg-green-500 p-7 rounded-2xl text-white  min-h-60 flex flex-col justify-center items-center">
@@ -131,8 +142,8 @@
       <div class="buttons mt-4 flex flex-row justify-center items-center gap-5">
         <input
           type="text"
-          name="phone"
-          placeholder="Your phone number"
+          name="email"
+          placeholder="Your email"
           class="bg-white text-black p-3 rounded-md focus:outline-none focus:ring-2 focus:ring-[#c3a760]">
 
         <a href="" class="bg-white text-green-500 rounded-xl  p-3 pl-2 pr-2 md:p-3 md:pl-2 md:pr-2 font-medium text-medium hover:text-pink-950 transition duration-150 ">Subscribe</a>
