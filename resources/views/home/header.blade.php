@@ -16,7 +16,7 @@
       <div id="icons" class="flex space-x-6 text-white text-xl">
         <a href="#" class="md:text lg:text-lg text-base"><i class="hover:text-green-500 transition duration-150 ri-login-circle-fill   "></i></a>
         <a href="#" class="md:text lg:text-lg text-base"><i class="hover:text-green-500 transition duration-150 ri-user-add-line  "></i></a>
-        <a href="#" class="md:text lg:text-lg text-base"><i class="hover:text-green-500 transition duration-150 ri-shopping-cart-2-line  "></i></a>
+        <a href="{{ uri('mycart') }}" class="md:text lg:text-lg text-base"><i class="hover:text-green-500 transition duration-150 ri-shopping-cart-2-line  "></i></a>
         <a href="#" class="md:text lg:text-lg text-base"><i class="hover:text-green-500 transition duration-150 ri-menu-fill md:hidden   " id="menubtn"></i></a>
       </div>
     </header>

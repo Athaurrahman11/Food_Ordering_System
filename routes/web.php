@@ -16,3 +16,7 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('home.contact');
 });
+
+Route::get('/mycart', function () {
+    return view('home.mycart');
+});
