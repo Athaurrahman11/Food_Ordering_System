@@ -12,7 +12,7 @@
 <body class="bg-black">
   @include('home.header')
 
-  <section class="menu-section p-15 pt-22">
+  <section class="menu-section p-28 pt-22">
 
     <div class="text-white text-center ">
       <h3 class="text-5xl md:text-5xl font-bold after-[''] after:w-68 after:h-2 after:block after:bg-green-500 after:m-auto after:mt-4">Choose Your <span class="text-green-500">Meal</span> </h3>
@@ -77,16 +77,16 @@
     </div>
   </section>
 
-  <section class="category p-15 pt-10">
+  <section class="category p-28 pt-10">
     <div class="btn flex flex-col md:flex-row md:justify-between gap-6">
 
       <!-- Category Buttons -->
       <div class="category-btns text-white flex flex-wrap justify-center md:justify-between items-center gap-4 sm:gap-6 md:gap-12">
-        <button class="bg-pink-950 p-2 px-6 sm:px-8 md:px-12 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">All</button>
-        <button class="bg-pink-950 p-2 px-6 sm:px-8 md:px-12 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Pizza</button>
-        <button class="bg-pink-950 p-2 px-6 sm:px-8 md:px-12 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
-        <button class="bg-pink-950 p-2 px-6 sm:px-8 md:px-12 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
-        <button class="bg-pink-950 p-2 px-6 sm:px-8 md:px-12 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
+        <button class="bg-pink-950 p-2 px-2 sm:px-8 md:px-6 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">All</button>
+        <button class="bg-pink-950 p-2 px-2 sm:px-8 md:px-6 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Pizza</button>
+        <button class="bg-pink-950 p-2 px-2 sm:px-8 md:px-6 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
+        <button class="bg-pink-950 p-2 px-2 sm:px-8 md:px-6 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
+        <button class="bg-pink-950 p-2 px-2 sm:px-8 md:px-6 rounded-lg hover:cursor-pointer hover:text-green-500 transition duration-150 text-base md:text-lg font-semibold">Burger</button>
       </div>
 
       <!-- Search -->

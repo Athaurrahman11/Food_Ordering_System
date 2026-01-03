@@ -20,3 +20,7 @@ Route::get('/contact', function () {
 Route::get('/mycart', function () {
     return view('home.mycart');
 });
+
+Route::get('/dashboard', function () {
+    return view('admin.index');
+});
