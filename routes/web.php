@@ -22,5 +22,18 @@ Route::get('/mycart', function () {
 });
 
 Route::get('/dashboard', function () {
-    return view('admin.index');
+    return view('admin.homepage');
 });
+
+Route::get('/addcategory', function () {
+    return view('admin.add_category');
+});
+
+Route::get('/view_category', function () {
+    return view('admin.view_category');
+});
+
+Route::get('/add_food', function () {
+    return view('admin.add_food');
+});
+
